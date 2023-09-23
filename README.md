@@ -80,4 +80,4 @@ generateDocumentation("./app.js", outputPath)
 
 ### Contributing
 
-Contributions are welcome! If you'd like to improve this package or report issues, please open an issue or submit a pull request on GitHub.
+Contributions are welcome! If you'd like to improve this package or report issues, please open an issue or submit a pull request on [GitHub](https://github.com/kaukushikmar/express-api-doc-generator).
