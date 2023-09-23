@@ -5,7 +5,7 @@
  * @throws {Error} If there's an error while fetching users.
  */
 app.get('/api/users', (req, res) => {
-  // Your code here
+  // 
 });
 
 /**
@@ -16,5 +16,5 @@ app.get('/api/users', (req, res) => {
  * @throws {Error} If there's an error while creating the user.
  */
 app.post('/api/users', (req, res) => {
-  // Your code here
+  // 
 });
